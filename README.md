@@ -1,5 +1,5 @@
 ### Hello there 
-My name is Jack
+My name is Jack Ablett
 
 All my projects here are made by ME, and i'am ok with you reusing code BUT be sure to give me credit for the basis code! as it states in the [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
