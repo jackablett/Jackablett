@@ -1,7 +1,7 @@
 ### Hello there 
 My name is Jack
 
-All my projects here are for EDUCATIONAL PURPOSES, I am not responsible for any individual(s) using my code for their own purposes. Assume all projects are under [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
+All my projects here are made by ME, and i'am ok with you reusing code BUT be sure to give me credit for the basis code! as it states in the [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=jackablett&show_icons=true&include_all_commits=true&theme=dark)
